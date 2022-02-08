@@ -6,7 +6,7 @@
 /*   By: sudatsu <sudatsu@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/31 19:20:08 by sudatsu           #+#    #+#             */
-/*   Updated: 2022/02/08 21:45:05 by sudatsu          ###   ########.fr       */
+/*   Updated: 2022/02/08 22:18:18 by sudatsu          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,6 @@
 # include <signal.h>
 # include <stdlib.h>
 # include <limits.h>
-// # include "libft/libft.h"
 
 extern sig_atomic_t	g_flag;
 
